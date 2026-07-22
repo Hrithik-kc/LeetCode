@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Hrithik-kc/LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Hrithik-kc/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hrithik-kc/LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Hrithik-kc/LeetCode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
