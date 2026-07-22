@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Hrithik-kc/LeetCode/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
