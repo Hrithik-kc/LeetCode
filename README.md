@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hrithik-kc/LeetCode/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/Hrithik-kc/LeetCode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
@@ -55,5 +56,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hrithik-kc/LeetCode/tree/master/0002-add-two-numbers) |
 | [0523-continuous-subarray-sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Hrithik-kc/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
