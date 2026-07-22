@@ -11,66 +11,30 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+
         ListNode dummy(0);
         ListNode* tail = &dummy;
-        ListNode* first = l1;
-        ListNode* second = l2;
-        int result = 0;
-        int digit = 0;
+
         int carry = 0;
 
-        while (first != nullptr && second != nullptr) {
+        while (l1 != nullptr || l2 != nullptr || carry != 0) {
 
-            result = first->val + second->val + carry;
+            int sum = carry;
 
-            if (result <= 9) {
-                tail->next = new ListNode(result);
-                carry = 0;
-            } else {
-                digit = result % 10;
-                carry = result / 10;
-                tail->next = new ListNode(digit);
+            if (l1 != nullptr) {
+                sum += l1->val;
+                l1 = l1->next;
             }
 
-            first = first->next;
-            second = second->next;
-            tail = tail->next;
-        }
-
-        while (first != nullptr) {
-            result = first->val + carry;
-
-            if (result <= 9) {
-                tail->next = new ListNode(result);
-                carry = 0;
-            } else {
-                digit = result % 10;
-                carry = result / 10;
-                tail->next = new ListNode(digit);
+            if (l2 != nullptr) {
+                sum += l2->val;
+                l2 = l2->next;
             }
 
-            first = first->next;
+            carry = sum / 10;
+
+            tail->next = new ListNode(sum % 10);
             tail = tail->next;
-        }
-
-        while (second != nullptr) {
-            result = second->val + carry;
-
-            if (result <= 9) {
-                tail->next = new ListNode(result);
-                carry = 0;
-            } else {
-                digit = result % 10;
-                carry = result / 10;
-                tail->next = new ListNode(digit);
-            }
-
-            second = second->next;
-            tail = tail->next;
-        }
-
-        if (carry != 0) {
-            tail->next = new ListNode(carry);
         }
 
         return dummy.next;
