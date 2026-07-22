@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        h=1;
+        h=1
         l=1
         ph=1
         pl=1
