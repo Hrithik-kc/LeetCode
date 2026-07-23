@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Hrithik-kc/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Hrithik-kc/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/Hrithik-kc/LeetCode/tree/master/0200-number-of-islands) |
 | [0523-continuous-subarray-sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Hrithik-kc/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -62,4 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hrithik-kc/LeetCode/tree/master/0002-add-two-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Hrithik-kc/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Hrithik-kc/LeetCode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Hrithik-kc/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Hrithik-kc/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
