@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hrithik-kc/LeetCode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Hrithik-kc/LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Hrithik-kc/LeetCode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/Hrithik-kc/LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Hrithik-kc/LeetCode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
