@@ -12,11 +12,10 @@ class Solution {
 public:
     vector<int> nextLargerNodes(ListNode* head) {
         vector<int> values;
-        ListNode* temp = head;
         stack<int> st;
-        while (temp != nullptr) {
-            values.push_back(temp->val);
-            temp = temp->next;
+        while (head != nullptr) {
+            values.push_back(head->val);
+            head = head->next;
         }
         vector<int> ans(values.size(), 0);
         for (int i = 0; i < values.size(); i++) {
