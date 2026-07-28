@@ -96,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hrithik-kc/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Hrithik-kc/LeetCode/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
