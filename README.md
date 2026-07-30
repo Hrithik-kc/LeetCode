@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Hrithik-kc/LeetCode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Hrithik-kc/LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Hrithik-kc/LeetCode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Hrithik-kc/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Hrithik-kc/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hrithik-kc/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Hrithik-kc/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
