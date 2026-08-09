@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Hrithik-kc/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Hrithik-kc/LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Hrithik-kc/LeetCode/tree/master/0148-sort-list) |
 ## Divide and Conquer
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Hrithik-kc/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hrithik-kc/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hrithik-kc/LeetCode/tree/master/0040-combination-sum-ii) |
