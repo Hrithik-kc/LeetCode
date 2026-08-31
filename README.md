@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Hrithik-kc/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Hrithik-kc/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0941-valid-mountain-array](https://github.com/Hrithik-kc/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Hrithik-kc/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hrithik-kc/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
