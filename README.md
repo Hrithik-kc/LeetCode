@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Hrithik-kc/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Hrithik-kc/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hrithik-kc/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Hrithik-kc/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Hrithik-kc/LeetCode/tree/master/0050-powx-n) |
 | [0523-continuous-subarray-sum](https://github.com/Hrithik-kc/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1922-count-good-numbers](https://github.com/Hrithik-kc/LeetCode/tree/master/1922-count-good-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Hrithik-kc/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
