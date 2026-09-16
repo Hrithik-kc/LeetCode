@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Hrithik-kc/LeetCode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hrithik-kc/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hrithik-kc/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/Hrithik-kc/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Hrithik-kc/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Hrithik-kc/LeetCode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Hrithik-kc/LeetCode/tree/master/0200-number-of-islands) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Hrithik-kc/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hrithik-kc/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Hrithik-kc/LeetCode/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/Hrithik-kc/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Hrithik-kc/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hrithik-kc/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Prefix Sum
